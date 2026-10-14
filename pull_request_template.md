@@ -9,6 +9,15 @@
 ### 1. What changed and why
 <!-- 2–4 lines: business purpose + technical summary -->
 
+### 1.a Functional issue / Business impact
+- Problem statement (end-user / business): <!-- 1–2 lines summarizing the user-facing issue or business need -->
+- Who is impacted (user roles / personas / systems): <!-- e.g., "All contractors", "Payroll batch job", "VBCS end-users" -->
+- Frequency / scope: <!-- e.g., Always / Intermittent / 5% of requests / Specific module -->
+- Steps to reproduce (for a bug): <!-- numbered steps, environment, test data -->
+- Observed vs Expected behavior: <!-- short bullets -->
+- Business impact & severity (e.g., Sev-1: outage, Sev-2: major function impaired): 
+- Acceptance criteria (how QA/business will confirm fix/feature is correct):
+
 ### 2. Components impacted
 | Layer | Object / File | Change (New / Modified / Deleted) |
 |---|---|---|
@@ -46,6 +55,7 @@
 - [ ] Existing functionality still works (regression check on impacted areas)
 - [ ] UI checked for validations, messages, and responsiveness (VBCS)
 - [ ] Tested with the correct user roles / personas
+- [ ] Functional issue description, steps to reproduce and acceptance criteria included
 
 ### Security & compliance
 - [ ] No secrets, passwords, or tokens in code or config
