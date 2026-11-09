@@ -1,10 +1,15 @@
 ## PR Summary — Merge to SIT
 
 **Application / Module:** <!-- e.g., TimeRite, CrewRite, OnboardRite, EquipRite, PraRite -->
-**Ticket / Story ID(s):** <!-- link -->
 **Developer:** 
 **Target Branch:** sit
 **Type of Change:** ☐ Feature ☐ Bug Fix ☐ Enhancement ☐ Hotfix ☐ Config Only ☐ Refactor
+
+### JIRA Story / Task
+<!-- Required: provide the JIRA issue type, key, direct link, and enough detail to explain the work. Add one row per related JIRA issue. -->
+| Issue Type (Story / Task / Bug) | JIRA Key | Link | Summary / Details |
+|---|---|---|---|
+| | | | |
 
 ### 1. What changed and why
 <!-- 2–4 lines: business purpose + technical summary -->
