@@ -14,7 +14,7 @@
 ### 1. What changed and why
 <!-- 2–4 lines: business purpose + technical summary -->
 
-### 1.a Functional issue / Business impact
+### 1. Functional issue / Business impact
 - Problem statement (end-user / business): <!-- 1–2 lines summarizing the user-facing issue or business need -->
 - Who is impacted (user roles / personas / systems): <!-- e.g., "All contractors", "Payroll batch job", "VBCS end-users" -->
 - Frequency / scope: <!-- e.g., Always / Intermittent / 5% of requests / Specific module -->
