@@ -7,9 +7,9 @@
 
 ### JIRA Story / Task
 <!-- Required: provide the JIRA issue type, key, direct link, and enough detail to explain the work. Add one row per related JIRA issue. -->
-| Issue Type (Story / Task / Bug) | JIRA Key | Link | Summary / Details |
-|---|---|---|---|
-| | | | |
+| Issue Type (Story / Task / Bug) | JIRA Key | Sprint Name | Link | Summary / Details |
+|---|---|---|---|---|
+| | | | | |
 
 ### 1. What changed and why
 <!-- 2–4 lines: business purpose + technical summary -->
